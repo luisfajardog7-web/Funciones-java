@@ -2,6 +2,6 @@ public class prueba {
     
 }
 public static void main(String[] args) {
-    System.out.println("Hola bb que mas pues");
+    System.out.println("miguelon");
 }
 
